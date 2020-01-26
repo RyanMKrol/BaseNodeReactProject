@@ -12,7 +12,9 @@ The base project contains:
   - You still need to configure travis for the repo you're using this with, as well as setting up the secret to decode the AWS credentials.
 
 # Setup
+ - Create a new directory for your repo, and cd into it.
  - Run the following commands:
+   - `git init`
    - `git remote add NodeReactBase https://github.com/RyanMKrol/BaseNodeReactProject`
    - `git remote update`
    - `git merge NodeReactBase/master`
