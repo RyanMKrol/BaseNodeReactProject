@@ -2,7 +2,7 @@
 # This should live wherever the home directory is
 
 cd ~
-rm -rf ryankrol.co.uk
+rm -rf BaseNodeReactProject
 git clone https://github.com/RyanMKrol/BaseNodeReactProject.git
 cd BaseNodeReactProject
 git pull
