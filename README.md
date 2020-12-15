@@ -1,3 +1,7 @@
+> **Note: This repo is deprecated. I now use my own tool for creating new projects - [create-noodle-app](https://github.com/RyanMKrol/create-noodle-app)**
+
+---
+
 # BaseNodeReactProject
 A template for making web pages using Node and React.
 
